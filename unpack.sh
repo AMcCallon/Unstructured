@@ -14,6 +14,5 @@ do
 	cd "$CURR_DIR"
 
 done
-cd "$NEW_DIR"
-#rm structured-2018*.tar.gz;
+
 echo All done
